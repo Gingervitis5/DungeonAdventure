@@ -56,6 +56,7 @@ public class Dungeon {
                 }
             }
         }
+        inp.close();
     }
     
     private void drawCanvas(){
